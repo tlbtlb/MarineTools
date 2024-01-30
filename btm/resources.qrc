@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/BTM" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
